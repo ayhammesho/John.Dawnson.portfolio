@@ -1,5 +1,5 @@
 # John.Dawnson.portfolio
 training website for learning frontend journy
 
-#Deployment
+# Deployment
 https://ayhammesho.github.io/John.Dawnson.portfolio/
